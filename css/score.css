@@ -1,0 +1,63 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    height: 92vh;
+    width: 25%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+#yourScore {
+    text-align: center;
+    width: 100%;
+    height: 30%;
+    margin-top: 20px;
+}
+
+#allScores {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30%;
+    margin-bottom: 120px;
+}
+
+#divOut {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+#d,
+#d1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    margin: 10%;
+    align-items: center;
+}
+
+.d2,
+.d3 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 5%;
+    align-items: center;
+
+
+}
